@@ -1,5 +1,6 @@
 about-mozilla-15.1-ja
 =====================
+https://addons.mozilla.org/ja/firefox/addon/about-mozilla-15_1-ja/  
 The Book of Mozilla, 15:1 in Japanese
 
 upstream
