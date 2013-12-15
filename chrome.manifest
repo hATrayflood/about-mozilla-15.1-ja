@@ -1,0 +1,2 @@
+content	about-mozilla-15.1-ja	content/
+override	chrome://global/locale/mozilla.dtd	chrome://about-mozilla-15.1-ja/content/mozilla.dtd
